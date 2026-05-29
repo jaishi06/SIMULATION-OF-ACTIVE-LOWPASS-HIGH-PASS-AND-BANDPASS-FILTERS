@@ -1,7 +1,9 @@
-# SIMULATION-OF-ACTIVE-LOWPASS-HIGH-PASS-AND-BANDPASS-FILTERS
+=# SIMULATION-OF-ACTIVE-LOWPASS-HIGH-PASS-AND-BANDPASS-FILTERS
 
-## AIM : 
-To Design and simulate the following circuits using LT-Spice Active low pass filter, Active high pass filter, Active band pass filter
+## AIM : To Design and simulate the following circuits using LT-Spice
+a.	Active low pass filter
+b.	Active high pass filter
+c.	Active band pass filter
 
 ## SOFTWARE REQUIRED: 
 LT-Spice
@@ -16,22 +18,29 @@ LT-Spice
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 ## LOWPASS FILTER CIRCUIT DIAGRAM 
-<img width="650" height="320" alt="image" src="https://github.com/user-attachments/assets/c6bef8d6-3bff-4a5b-86a3-b8473053efb5" />
+
+<img width="945" height="316" alt="image" src="https://github.com/user-attachments/assets/26ff8b58-b684-42ae-a31d-c73d8005bf5d" />
 
 ## OUTPUT: LOWPASS FILTER
-<img width="1397" height="390" alt="image" src="https://github.com/user-attachments/assets/e9f16e4d-ff79-45d5-944b-5b6450118ddd" />
+
+<img width="945" height="310" alt="image" src="https://github.com/user-attachments/assets/29d473ab-5e07-4289-9fa1-faa8d2c9487d" />
 
 ## HIGHPASS FILTER CIRCUIT DIAGRAM 
-<img width="461" height="320" alt="image" src="https://github.com/user-attachments/assets/586e1119-108c-4fd5-b138-ed0b0d18f153" />
+
+<img width="949" height="306" alt="image" src="https://github.com/user-attachments/assets/2299bfa0-87f3-4c88-b8cb-76b72c376ef9" />
 
 ## OUTPUT: HIGHPASS FILTER
-<img width="1395" height="359" alt="image" src="https://github.com/user-attachments/assets/6aef8dcc-cf63-4439-b674-4b05ad3d57cd" />
+
+<img width="952" height="322" alt="image" src="https://github.com/user-attachments/assets/57072bff-aef8-47f9-91c6-9d52f78458dc" />
 
 ## BANDPASS FILTER CIRCUIT DIAGRAM 
-<img width="644" height="319" alt="image" src="https://github.com/user-attachments/assets/27842134-de81-44a7-a3d1-7fc5dd044c49" />
+
+<img width="950" height="318" alt="image" src="https://github.com/user-attachments/assets/a85a8cb2-bd76-485e-917b-41cf038768b2" />
 
 ## OUTPUT: BANDPASS FILTER 
-<img width="1385" height="366" alt="image" src="https://github.com/user-attachments/assets/306b94b6-5a5b-4d6b-afa9-3b9c3de4700f" />
+
+<img width="952" height="316" alt="image" src="https://github.com/user-attachments/assets/d5f71daf-746e-42bb-ba83-6bb5e32c97a5" />
 
 ## RESULT :
-Thus the LT-SPICE tool has been studied and active low pass filter, high pass and bandpass filter is simulated.
+
+Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
